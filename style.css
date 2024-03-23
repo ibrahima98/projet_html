@@ -1,0 +1,16 @@
+.layout{
+    padding: 0.2%;
+    height: 70vh;
+    border: solid;
+}
+.navigation{
+    padding: 0.2%;
+    height: 10vh;
+    border: solid;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.navigation_child{
+    border: solid;
+    width: 60vh;
+}
